@@ -11,6 +11,10 @@ Docker for BSID2019 Annual Meeting
 # Installed tools
 
  * [ewastools](https://github.com/kpbioteam/ewas_galaxy)
+ * [clusterProfiler_bitr](https://github.com/kpbioteam/clusterProfiler_bitr)
+ * [chipeakanno_annopeaks](https://github.com/kpbioteam/chipeakanno_annopeaks)
+ * [clusterProfiler_go](https://github.com/kpbioteam/clusterProfiler_go)
+ 
 
 # Requirements
 
