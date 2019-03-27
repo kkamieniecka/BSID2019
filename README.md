@@ -3,7 +3,7 @@
 [![Docker Repository on Quay](https://quay.io/repository/bgruening/galaxy-epigenetics/status "Docker Repository on Quay")](https://quay.io/repository/bgruening/galaxy-epigenetics)
 [![Gitter](https://badges.gitter.im/bgruening/docker-galaxy-stable.svg)](https://gitter.im/bgruening/docker-galaxy-stable?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-Galaxy Workbench for EWAS Analysis
+Docker for BSID2019 Annual Meeting
 ==================================
 
 :whale: Galaxy Docker repository for population epigenetics data analysis
@@ -22,7 +22,7 @@ Galaxy Workbench for EWAS Analysis
 To launch:
 
 ```
-docker run -i -t -p 8080:80 kpbioteam/galaxy-ewas
+docker run -i -t -p 8080:80 kpbioteam/bsid
 ```
 
 For more details about this command line or specific usage, please consult the
@@ -31,7 +31,7 @@ For more details about this command line or specific usage, please consult the
 # Contributers
  - Katarzyna Murat
  - Krzysztof Poterlowicz
- - Bjoern Gruening
+ 
 
 
 # History
