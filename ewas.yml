@@ -50,3 +50,13 @@ tools:
   owner: kpbioteam
   tool_panel_section_label: "Epigenetics"
   tool_shed_url: https://testtoolshed.g2.bx.psu.edu/
+  
+- name: clusterprofiler_bitr
+  owner: kpbioteam
+  tool_panel_section_label: "Epigenetics"
+  tool_shed_url: https://testtoolshed.g2.bx.psu.edu/
+  
+- name: clusterprofiler_go
+  owner: kpbioteam
+  tool_panel_section_label: "Epigenetics"
+  tool_shed_url: https://testtoolshed.g2.bx.psu.edu/
